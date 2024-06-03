@@ -13,3 +13,4 @@ int main () {
     cout << l * r;
     return 0;
 }
+    
